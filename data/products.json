@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Shopify",
+    "slug": "shopify-review",
+    "tag": "Best for E-commerce",
+    "rating": "4.9",
+    "description": "The gold standard for starting an online store. Public sentiment praises its app ecosystem and reliability.",
+    "price": "$39/mo"
+  },
+  {
+    "id": "2",
+    "name": "Notion",
+    "slug": "notion-review",
+    "tag": "Best for Productivity",
+    "rating": "4.8",
+    "description": "The ultimate workspace for notes and docs. Highly favored by startup founders for its flexibility.",
+    "price": "Free / $10/mo"
+  },
+  {
+    "id": "3",
+    "name": "Mercury Bank",
+    "slug": "mercury-review",
+    "tag": "Best for Startups",
+    "rating": "4.7",
+    "description": "Banking built for tech companies. Massive community trust for its clean UI and easy international wires.",
+    "price": "$0 Monthly"
+  }
+]
