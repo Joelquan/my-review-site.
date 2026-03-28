@@ -1,5 +1,5 @@
 {
-  "name": "tech-refine-site",
+  "name": "my-review-site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,17 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "lucide-react": "^0.344.0",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "tailwind-merge": "^2.2.1",
-    "tailwindcss-animate": "^1.0.7"
+    "lucide-react": "^0.344.0",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
-    "autoprefixer": "^10.0.1",
+    "typescript": "^5",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
-    "typescript": "^5"
+    "autoprefixer": "^10.0.1"
   }
 }
