@@ -1,4 +1,4 @@
-import products from '@/data/products.json';
+import products from '../data/products.json';
 import { ShieldCheck, Star, TrendingUp, ChevronRight } from 'lucide-react';
 
 export default function Home() {
